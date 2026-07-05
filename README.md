@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🌟 Hey, I'm Shweta Rajpara 👩‍💻 
+🌟 Full Stack Developer • React • Node.js • Postgresql • Mysql • PHP • Python • Django 
+🌟 Building modern web applications with clean UI and scalable backend architecture. ✨
 <!--
 **shwetarajpara/shwetarajpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
